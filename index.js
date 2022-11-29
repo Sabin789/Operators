@@ -71,8 +71,8 @@ let subtraction= x-12
     console.log("name1 and name2 are the same:",false)
  }
 
- let equal=name2.toLowerCase
- console.log("name1 and eqaul are the same:",name1===equal)
+ let equal=name2.toLowerCase()
+ console.log("name1 and equal are the same:",name1===equal)
 
 
 //  unsolved
